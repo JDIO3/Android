@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Home_Page</string>
+    <string name="Personal_Information">Personal Information</string>
+    <string name="Farm_Information">Farm Information</string>
+    <string name="Field_Information">Field  Information</string>
+    <string name="Financial_Information">Financial Information</string>
+    <string name="Yield_Information">Yield Information</string>
+    <string name="Business">Business Information</string>
+    <string name="Credits">Credits</string>
+    <string name="Insurance">Insurance</string>
+    <string name="Qualification">Qualification</string>
+    <string name="Login">Login</string>
+    <string name="Farmer_Id">Farmer Id</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Farmer Id</string>
+    <string name="prompt_password">Date of Birth</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid ID</string>
+    <string name="invalid_password">Date must be in ddmmyyyy format</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="business">Business</string>
+
+</resources>
